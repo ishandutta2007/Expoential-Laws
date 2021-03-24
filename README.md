@@ -6,6 +6,6 @@
 
 [Swansons_law](https://en.wikipedia.org/wiki/Swanson%27s_law) for Solar
 
-[Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) for Learning cureve effects
+[Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) for Learning curve effects
 
 [Nielsen's Law](https://www.nngroup.com/articles/law-of-bandwidth/) for Internet bandwidth
