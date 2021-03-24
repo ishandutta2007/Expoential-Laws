@@ -4,7 +4,7 @@
 
 [Nevens Law](https://en.wikipedia.org/wiki/Hartmut_Neven#Neven's_law) for Quantum Computing
 
-[Swansons_law](https://en.wikipedia.org/wiki/Swanson%27s_law) for Solar
+[Swansons law](https://en.wikipedia.org/wiki/Swanson%27s_law) for Solar
 
 [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) for Learning curve effects
 
