@@ -7,4 +7,5 @@
 | [Swansons law](https://en.wikipedia.org/wiki/Swanson%27s_law) | Solar PV |--|--|
 | [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) | Learning curve effects|--|--|
 | [Nielsen's Law](https://www.nngroup.com/articles/law-of-bandwidth/) | Internet bandwidth
+| [MRI Imaging](https://qr.ae/pG7IOv) | Radiology
 
