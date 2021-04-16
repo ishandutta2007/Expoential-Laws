@@ -3,7 +3,7 @@
 | Law        | Sector  | last 10x in  | next 10x prediction  | 
 | -------------:| -----:| ------:| ------:|
 | [Neven's Law](https://en.wikipedia.org/wiki/Hartmut_Neven#Neven's_law) | Quantum Computing| 2 years| 2 years|
- | [Harris's Law](https://medium.com/lightmatter/the-story-behind-lightmatters-tech-e9fa0facca30) | Optical GPU Computing| 3 years| 3 years|
+| [Harris's Law](https://medium.com/lightmatter/the-story-behind-lightmatters-tech-e9fa0facca30) | Optical GPU Computing|--| 3 years|
 | [Huang's Law](https://en.wikipedia.org/wiki/Huang%27s_law) | GPU Computing| 3 years| 3 years|
 | [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) | Classical Computing| 7 years| 7 years|
 | [Nielsen's Law](https://www.nngroup.com/articles/law-of-bandwidth/) | Internet bandwidth| 6 years| 6 years|
