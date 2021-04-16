@@ -1,6 +1,6 @@
 # Expoential-Laws
 
-| Law        | Sector  | last 10x in  | next 10x prediction  | 
+| Law        | Sector  | Last 10x in  | Next 10x prediction  | 
 | -------------:| -----:| ------:| ------:|
 | [Neven's Law](https://en.wikipedia.org/wiki/Hartmut_Neven#Neven's_law) | Quantum Computing| 2 years| 2 years|
 | [Harris's Law](https://medium.com/lightmatter/the-story-behind-lightmatters-tech-e9fa0facca30) | Optical GPU Computing|--| 3 years|
