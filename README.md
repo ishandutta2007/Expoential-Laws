@@ -1,7 +1,7 @@
 # Expoential-Laws
 
 | Law        | Sector  | last 10x in  | next 10x prediction  | 
-| -------------:| -----:| ------:| ------:|------:|
+| -------------:| -----:| ------:| ------:|
 | [Nevens Law](https://en.wikipedia.org/wiki/Hartmut_Neven#Neven's_law) | Quantum Computing| 2 years| 2 years|
 | [Huangs Law](https://en.wikipedia.org/wiki/Huang%27s_law) | GPU Computing| 3 years| 3 years|
 | [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_law) | Classical Computing| 7 years| 7 years|
