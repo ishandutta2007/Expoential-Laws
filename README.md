@@ -15,6 +15,6 @@
 
 | Law        | Sector  | Last 10x in  | Next 10x prediction  | 
 | -------------:| -----:| ------:| ------:|
-| [Spintronics Law](https://www.hindawi.com/journals/acisc/2013/426962/) | Spintronics | 7 years| 7 years|
+| [Spintronics](https://www.hindawi.com/journals/acisc/2013/426962/) | Spintronics | --| --|
 | [Plasmonics](https://arxiv.org/ftp/arxiv/papers/1612/1612.02898.pdf#:~:text=Looking%20ahead%2C%20photonic%20board%2D%20and,Optical%20communication%2C%20Transistors%2C%20Plasmonics.) | Plasmonics | --| --|
 
