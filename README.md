@@ -11,6 +11,8 @@
 | [MRI Imaging](https://qr.ae/pG7IOv) | Radiology| 15 years| 15 years|
 | [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) | Microeconomics(Learning curve effects)|--|--|
 
-Extension of Moores Law:
+## Extension of Moores Law:
 
+| Law        | Sector  | Last 10x in  | Next 10x prediction  | 
+| -------------:| -----:| ------:| ------:|
 | [Spintronics Law](https://www.hindawi.com/journals/acisc/2013/426962/) | Spintronics | 7 years| 7 years|
