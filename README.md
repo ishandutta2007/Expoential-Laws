@@ -8,6 +8,7 @@
 | [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) | Classical Computing| 7 years| 7 years|
 | [Nielsen's Law](https://www.nngroup.com/articles/law-of-bandwidth/) | Internet bandwidth| 6 years| 6 years|
 | [Swanson's law](https://en.wikipedia.org/wiki/Swanson%27s_law) | Solar PV | 13 years| 25 years|
+| No Law | Lithium Ion battery | 13 years| --|
 | [MRI Imaging](https://qr.ae/pG7IOv) | Radiology| 15 years| 15 years|
 | [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) | Microeconomics(Learning curve effects)|--|--|
 
