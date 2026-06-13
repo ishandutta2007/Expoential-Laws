@@ -53,7 +53,7 @@
 | ☀️ [Swanson's law](https://en.wikipedia.org/wiki/Swanson%27s_law) | Solar PV | 13 years | 25 years |
 | 🔋 [Zeng's Law](https://www.linkedin.com/pulse/breakthrough-battery-technology-chinese-researchers-711-renpenning/) | Lithium Ion battery (Cost) | 14 years | 12 years |
 | 🏥 [MRI Imaging](https://qr.ae/pG7IOv) | Radiology | 15 years | 15 years |
-| 📈 [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) | Microeconomics | 10x Units | 10x Units |
+| 📈 [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) | Microeconomics | 10x price drop not possible with writs law alone, producing 10x Units drops price by 3x | --- |
 
 ---
 
