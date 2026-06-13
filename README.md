@@ -52,7 +52,7 @@
 | 🚀 [Rockets](https://www.quora.com/How-much-does-it-cost-to-put-1-kilo-into-orbit) | Rocket Payload | 14 years | 9 years |
 | 🏥 [MRI Imaging](https://qr.ae/pG7IOv) | Radiology | 15 years | 15 years |
 | 📈 [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) | Microeconomics | -- | -- |
-| 📈 [Paynes Law](https://www.e11.bio/blog/prism) | Connectomics | 5 years | 5 years |
+| 🧠 [Paynes Law](https://www.e11.bio/blog/prism) | Connectomics | 5 years | 5 years |
 
 ---
 
