@@ -1,0 +1,8 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 10 90 L 30 70 L 50 75 L 70 30 L 90 10" stroke="#3b82f6" stroke-width="4" fill="none">
+    <animate attributeName="stroke-dasharray" from="0, 200" to="200, 0" dur="2s" repeatCount="indefinite" />
+  </path>
+  <circle cx="90" cy="10" r="5" fill="#facc15">
+    <animate attributeName="r" values="5;8;5" dur="1s" repeatCount="indefinite" />
+  </circle>
+</svg>
