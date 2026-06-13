@@ -25,7 +25,7 @@
 ---
 
 ## 🌟 Overview
-**Exponential-Laws** is a curated collection of the most influential exponential growth patterns in technology, science, and economics. This project tracks how key metrics—from AI compute to DNA sequencing—accelerate over time, providing a roadmap for the future of innovation.
+**Exponential-Laws** is a curated collection of the most influential exponential growth patterns in technology, science, and economics. 10x progress in technology typically means 10x deflation in price (ie 1/10 the cost for same stuff as before) for consumers. This project tracks how key metrics—from AI compute to DNA sequencing—accelerate over time, providing a roadmap for the future of innovation.
 
 > "The greatest shortcoming of the human race is our inability to understand the exponential function." — *Albert A. Bartlett*
 
