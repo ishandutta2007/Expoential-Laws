@@ -33,7 +33,7 @@
 
 ## 🚀 Key Technological Laws
 
-| Law | Sector | Last 10x in (2013-2023) | Next 10x prediction |
+| Law | Sector | Last 10x in (as of ~2023) | Next 10x prediction |
 | :--- | :--- | :--- | :--- |
 | 🤖 [AI Training Compute](https://openai.com/blog/ai-and-compute/) | Artificial Intelligence | 1 year | 1 year |
 | ⚛️ [Neven's Law](https://en.wikipedia.org/wiki/Hartmut_Neven#Neven's_law) | Quantum Computing | 2 years | 2 years |
@@ -59,7 +59,7 @@
 
 ## 🧬 Extension of Moore's Law
 
-| Law | Sector | Last 10x in (2013-2023) | Next 10x prediction |
+| Law | Sector | Last 10x in (as of ~2023) | Next 10x prediction |
 | :--- | :--- | :--- | :--- |
 | 🎡 [Spintronics](https://www.hindawi.com/journals/acisc/2013/426962/) | Spintronics | -- | -- |
 | 🌊 [Plasmonics](https://arxiv.org/ftp/arxiv/papers/1612/1612.02898.pdf) | Plasmonics | -- | -- |
