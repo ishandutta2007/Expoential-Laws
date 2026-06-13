@@ -73,7 +73,24 @@ Found a law we missed? Feel free to open a PR! We're looking for data-backed exp
 - 🧱 Carbon Capture
 - 🔋 Energy Density
 
+---
+
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Expoential-Laws&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Expoential-Laws&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Expoential-Laws&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Expoential-Laws&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
+
+---
+
 ## 🔍 SEO Keywords
+
 `Exponential Growth`, `Technology Laws`, `Moore's Law`, `Future Predictions`, `AI Trends`, `Quantum Computing Acceleration`, `Carlson Curve Genomics`, `Technological Singularity`, `Computing Power Scaling`.
 
 ---
