@@ -19,7 +19,6 @@
 - [🌟 Overview](#-overview)
 - [🚀 Key Technological Laws](#-key-technological-laws)
 - [🧬 Extension of Moore's Law](#-extension-of-moores-law)
-- [🧠 Neural Interfaces & Emerging Laws](#-neural-interfaces--emerging-laws)
 - [⬆️ Inverse Exponentials](#️-inverse-exponentials)
 - [🛠 Contribution](#-contribution)
 - [🔍 SEO Keywords](#-seo-keywords)
@@ -57,6 +56,7 @@
 | 🔋 [Zeng's Law](https://www.linkedin.com/pulse/breakthrough-battery-technology-chinese-researchers-711-renpenning/) | Lithium Ion battery (Cost per KWH) | 14 years | 12 years |
 | 🏥 [MRI Imaging](https://qr.ae/pG7IOv) | Radiology | 15 years | 15 years |
 | 📈 [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) | Microeconomics | 10x price drop not possible with Wright's law alone, producing 10x Units drops price by 3x | --- |
+| 🧠 [Stevenson's Law](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005765) | Neural Interfaces (BCI) | 7 years | 3 years |
 
 ---
 
@@ -66,14 +66,6 @@
 | :--- | :--- | :--- | :--- |
 | 🌊 [Plasmonics](https://arxiv.org/ftp/arxiv/papers/1612/1612.02898.pdf) | Plasmonics | 3 years | 3 years |
 | 🎡 [Spintronics](https://www.hindawi.com/journals/acisc/2013/426962/) | Spintronics | 3.3 years | 3.3 years |
-
----
-
-## 🧠 Neural Interfaces & Emerging Laws
-
-| Law | Sector | Last 10x in (as of June 2026) | Next 10x prediction |
-| :--- | :--- | :--- | :--- |
-| 🧠 [Stevenson's Law](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005765) | Neural Interfaces (BCI electrode count) | 7 years | 3 years (Neuralink-era acceleration) |
 
 ---
 
