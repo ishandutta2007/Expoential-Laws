@@ -19,6 +19,7 @@
 - [🌟 Overview](#-overview)
 - [🚀 Key Technological Laws](#-key-technological-laws)
 - [🧬 Extension of Moore's Law](#-extension-of-moores-law)
+- [⬆️ Inverse Exponentials](#️-inverse-exponentials)
 - [🛠 Contribution](#-contribution)
 - [🔍 SEO Keywords](#-seo-keywords)
 
@@ -48,12 +49,14 @@
 | ⚡ [Koomey's Law](https://en.wikipedia.org/wiki/Koomey%27s_law) | Computing Efficiency | 5.2 years | 5.2 years |
 | 🚀 [Rockets](https://www.spacex.com/vehicles/starship/) | Rocket Payload | 5 years | 4 years |
 | 📶 [Nielsen's Law](https://www.nngroup.com/articles/law-of-bandwidth/) | Internet bandwidth | 6 years | 6 years |
+| 🛰️ [Cooper's Law](https://en.wikipedia.org/wiki/Cooper%27s_law) | Wireless Spectrum Efficiency | 8 years | 7 years |
 | 💻 [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) | Classical Computing | 7 years | 7 years |
 | 🔦 [Haitz's Law](https://en.wikipedia.org/wiki/Haitz%27s_law) | LED Performance | 7.7 years | 7.7 years |
 | ☀️ [Swanson's law](https://en.wikipedia.org/wiki/Swanson%27s_law) | Solar PV | 13 years | 25 years |
 | 🔋 [Zeng's Law](https://www.linkedin.com/pulse/breakthrough-battery-technology-chinese-researchers-711-renpenning/) | Lithium Ion battery (Cost per KWH) | 14 years | 12 years |
 | 🏥 [MRI Imaging](https://qr.ae/pG7IOv) | Radiology | 15 years | 15 years |
 | 📈 [Wrights Law](https://en.wikipedia.org/wiki/Experience_curve_effects) | Microeconomics | 10x price drop not possible with Wright's law alone, producing 10x Units drops price by 3x | --- |
+| 🧠 [Stevenson's Law](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005765) | Neural Interfaces (BCI) | 7 years | 3 years |
 
 ---
 
@@ -63,6 +66,16 @@
 | :--- | :--- | :--- | :--- |
 | 🌊 [Plasmonics](https://arxiv.org/ftp/arxiv/papers/1612/1612.02898.pdf) | Plasmonics | 3 years | 3 years |
 | 🎡 [Spintronics](https://www.hindawi.com/journals/acisc/2013/426962/) | Spintronics | 3.3 years | 3.3 years |
+
+---
+
+## ⬆️ Inverse Exponentials
+
+Not all exponentials improve — some track costs that grow unboundedly. Understanding these is critical for forecasting which industries are ripe for disruption.
+
+| Law | Sector | Doubling time | Implication |
+| :--- | :--- | :--- | :--- |
+| 💊 [Eroom's Law](https://en.wikipedia.org/wiki/Eroom%27s_law) | Pharmaceutical R&D | Cost per approved drug doubles every ~9 years | Inverse of Moore's Law — AI-driven drug discovery may be the first real reversal |
 
 ---
 
@@ -91,7 +104,7 @@ Found a law we missed? Feel free to open a PR! We're looking for data-backed exp
 
 ## 🔍 SEO Keywords
 
-`Exponential Growth`, `Technology Laws`, `Moore's Law`, `Future Predictions`, `AI Trends`, `Quantum Computing Acceleration`, `Carlson Curve Genomics`, `Technological Singularity`, `Computing Power Scaling`.
+`Exponential Growth`, `Technology Laws`, `Moore's Law`, `Future Predictions`, `AI Trends`, `Quantum Computing Acceleration`, `Carlson Curve Genomics`, `Technological Singularity`, `Computing Power Scaling`, `Cooper's Law`, `Wireless Spectrum`, `Stevenson's Law`, `Brain Computer Interface`, `Neural Interfaces`, `Eroom's Law`, `Pharmaceutical R&D`, `Inverse Exponentials`.
 
 ---
 <p align="center">Made with ❤️ for the future-minded.</p>
