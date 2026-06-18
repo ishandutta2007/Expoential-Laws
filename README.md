@@ -45,6 +45,7 @@
 | 🧬 [DNA Data Storage](https://en.wikipedia.org/wiki/DNA_digital_data_storage) | Data Storage (Density) | 3 years | 3 years |
 | 🔬 [Rose's Law](https://en.wikipedia.org/wiki/Rose%27s_law) | Quantum Computing (Qubits) | 3.3 years | 3.3 years |
 | 💾 [Kryder's Law](https://en.wikipedia.org/wiki/Kryder%27s_law) | Magnetic Storage | 3.6 years | 5 years |
+| 📡 [Edholm's Law](https://en.wikipedia.org/wiki/Edholm%27s_law) | Telecommunication | 5 years | 5 years |
 | 🧠 [Paynes Law](https://www.e11.bio/blog/prism) | Connectomics | 5 years | 5 years |
 | ⚡ [Koomey's Law](https://en.wikipedia.org/wiki/Koomey%27s_law) | Computing Efficiency | 5.2 years | 5.2 years |
 | 🚀 [Rockets](https://www.spacex.com/vehicles/starship/) | Rocket Payload | 5 years | 4 years |
@@ -104,7 +105,7 @@ Found a law we missed? Feel free to open a PR! We're looking for data-backed exp
 
 ## 🔍 SEO Keywords
 
-`Exponential Growth`, `Technology Laws`, `Moore's Law`, `Future Predictions`, `AI Trends`, `Quantum Computing Acceleration`, `Carlson Curve Genomics`, `Technological Singularity`, `Computing Power Scaling`, `Cooper's Law`, `Wireless Spectrum`, `Stevenson's Law`, `Brain Computer Interface`, `Neural Interfaces`, `Eroom's Law`, `Pharmaceutical R&D`, `Inverse Exponentials`.
+`Exponential Growth`, `Technology Laws`, `Moore's Law`, `Edholm's Law`, `Future Predictions`, `AI Trends`, `Quantum Computing Acceleration`, `Carlson Curve Genomics`, `Technological Singularity`, `Computing Power Scaling`, `Cooper's Law`, `Wireless Spectrum`, `Telecommunication`, `Stevenson's Law`, `Brain Computer Interface`, `Neural Interfaces`, `Eroom's Law`, `Pharmaceutical R&D`, `Inverse Exponentials`.
 
 ---
 <p align="center">Made with ❤️ for the future-minded.</p>
