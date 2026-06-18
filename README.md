@@ -34,7 +34,7 @@
 
 ## 🚀 Key Technological Laws
 
-| Law | Sector | Last 10x in (as of June 2026) | Next 10x prediction |
+| Law | Sector | Last 1/10 cost in (as of June 2026) | Next 1/10 cost prediction |
 | :--- | :--- | :--- | :--- |
 | 🤖 [AI Training Compute](https://openai.com/blog/ai-and-compute/) | Artificial Intelligence | 7.5 months | 7.5 months |
 | ⚛️ [Neven's Law](https://en.wikipedia.org/wiki/Hartmut_Neven#Neven's_law) | Quantum Computing | 2 years | 2 years |
